@@ -3,3 +3,4 @@ Commands:
 init
 status
 add
+commit (-a -m)
