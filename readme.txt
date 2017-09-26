@@ -5,3 +5,4 @@ status
 add
 rm
 commit (-a -m)
+log
